@@ -12,3 +12,7 @@ Aqui estão as linguagens que eu utilizo:
   <img align="center" <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-plain.svg" alt="Lua" width="40" height="30"/>
   <img align="right" alt="Gui-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/743968842497392761/1090148507555475548/pica-pau.jpg">
 </div>
+
+<br>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=snoowez&show_icons=true&theme=dark)
