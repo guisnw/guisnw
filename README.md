@@ -15,4 +15,4 @@ Aqui estão as linguagens que eu utilizo:
 
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=snoowez&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guisnw&show_icons=true&theme=dark)
