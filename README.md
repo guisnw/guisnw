@@ -1,7 +1,6 @@
 ### **Ola! Eu sou Guilherme**
 Cursando Eng. Software
 
-Aqui estão as linguagens que eu utilizo:
 <div style="display: inline_block"><br>
   <img align="center" alt="Gui-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg" alt="Java" width="40" height="30"/>
